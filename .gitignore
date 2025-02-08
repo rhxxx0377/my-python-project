@@ -1,0 +1,12 @@
+.DS_Store
+Library/
+Library/VoiceTrigger/
+Library/VoiceTrigger/SAT/
+.cursor/
+.vscode/
+*.code-workspace
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/

@@ -10,3 +10,13 @@ __pycache__/
 *$py.class
 .env
 venv/
+.DS_Store
+.cache/
+.config/
+.ipynb_checkpoints/
+.local/
+.npm/
+.python_history
+node_modules/
+*.pyc
+__pycache__/
